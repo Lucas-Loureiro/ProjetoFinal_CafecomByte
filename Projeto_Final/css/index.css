@@ -1,0 +1,213 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.row{
+    display:flex;
+    margin: 0%;
+
+}
+#nav-container .container{
+    padding: 70px 0;
+}
+
+header, .navbar{
+    background-color: black;
+}
+
+#nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#logo{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.navbar-brand{
+    padding: 0;
+    color: white;
+}
+
+#navbar-links a{
+    color: white;
+}
+
+.navbar-expand-lg, .navbar-nav, .navbar-link{
+    padding: 1em .8rem;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+#mainSlider{
+    margin-top: 50px;
+}
+
+
+.btn-info{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.btn-info:hover{
+    color: black;
+    background-color: white;
+    border-color: white;
+}
+
+#Servidores .title{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#Servidores h2{
+    text-align: center;
+}
+
+#Servidores .card{
+    width: 18rem;
+}
+
+#Servidores .fa-check-circle{
+    margin-right: 10px;
+}
+
+#Servidores .btn-dark{
+   margin: 10px 0 10px 0;
+   
+}
+
+#Servidores .container{
+    padding: 70px 0;
+}
+
+
+
+#data-area p{
+    color: white;
+    font-size: 26px;
+    margin-top: 20px;
+   
+}
+
+#data-area {
+    background-color: black;
+    text-align: center;
+    
+}
+
+#informacao{
+    text-align: center;
+    margin-top: 20px;
+}
+.contatos{
+  padding: 20px 0;
+}
+
+.contatos i{
+    color: #444;
+    border: solid 1px #444;
+    border-radius: 100%;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    margin-bottom: 10px;
+
+}
+
+.contatos i:hover{
+    background-color: black;
+    color: white;
+}
+
+#social .navbar{
+    background-color: black;
+    color: white;
+   
+}
+
+#social .container{
+    background-color: black;
+    padding: 10px 0;
+    border-bottom: 1px solid white;
+}
+
+#social{
+    background-color: black;
+}
+
+
+
+#social li{
+    color: white;
+    list-style: none;
+    
+}
+
+#social a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#redes li{
+    display: inline;
+    padding-right: 20px;
+    padding: auto;
+    margin-right: 0;
+}
+
+#rodape .container{
+    padding: auto;
+    text-align: center;
+}
+
+#rodape{
+    background-color: black;
+    color: white;
+}
+
+#rodape .container p{
+    margin-bottom: 0;
+}
+
+#cadastro1{
+    margin-top: 150px;
+    background-color: transparent;
+}
+
+.progress{
+    display: inline-flex;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+    
+  }
+
+  .circle-box div {
+    padding: 0 40px;
+  }
+  
+#chat button{
+     margin: 20px 20px;
+  }
+.dropdown-menu{
+    padding: 20px;
+}
+
+#enviar{
+    align-items: center;
+}
+
+.navbar-toggler{
+    color: white;
+}
+
+.server{
+    display: contents;
+}
+
